@@ -3,7 +3,7 @@ EFS_DNS_NAME=fs-08b3a985f6783ae09.efs.us-east-1.amazonaws.com
 # create to root user
 sudo su
 
-# update the sofware packages on the ec2 instance 
+# update the software packages on the ec2 instance 
 yum update -y
 
 # create an html directory 
