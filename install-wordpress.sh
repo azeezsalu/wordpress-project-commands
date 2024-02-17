@@ -1,3 +1,4 @@
+# environment variable
 EFS_DNS_NAME=fs-08b3a985f6783ae09.efs.us-east-1.amazonaws.com
 
 # create to root user
